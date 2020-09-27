@@ -1,0 +1,9 @@
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\bin\Debug\ProvaTerceiroBimestrePT.exe.config
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\bin\Debug\ProvaTerceiroBimestrePT.exe
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\bin\Debug\ProvaTerceiroBimestrePT.pdb
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\obj\Debug\ProvaTerceiroBimestrePT.csprojAssemblyReference.cache
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\obj\Debug\ProvaTerceiroBimestrePT.Form1.resources
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\obj\Debug\ProvaTerceiroBimestrePT.Properties.Resources.resources
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\obj\Debug\ProvaTerceiroBimestrePT.csproj.GenerateResource.cache
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\obj\Debug\ProvaTerceiroBimestrePT.exe
+C:\Users\vibag\source\repos\ProvaTerceiroBimestrePT\ProvaTerceiroBimestrePT\obj\Debug\ProvaTerceiroBimestrePT.pdb
